@@ -1,0 +1,10 @@
+咪咕影片,https://epg.pw/stream/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8
+咪咕影片,https://epg.pw/stream/68ed0c94c8d8cc27a647bcd8a3571fd11577f43e8c0c08f7a25e046bfd9536ae.m3u8
+咪咕影片,https://epg.pw/stream/f14d9f489d0cbc6f41c18dbaecc206ab19f20ec1c256b5399d0717ea48ab2177.m3u8
+咪咕影片,https://epg.pw/stream/26d4cc4b9e70cfe453ad7e7fc64a781c7073aec26ac733c58d25630fae9933c7.m3u8
+咪咕影片,https://epg.pw/stream/2db3da3713d0168815e781460237ad8999cdd8a1e45291946eb25583c99c24cc.m3u8
+咪咕直播-11,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕直播-12,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕直播-32,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播-34,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
