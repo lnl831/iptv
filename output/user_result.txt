@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-01 06:27:49,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+2026-01-01 18:33:05,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 
 ,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
@@ -19,7 +19,16 @@
 金鹰纪实,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227039/10000100000000060000000000570897_0.smil
 金鹰纪实,rtsp://118.212.169.134/PLTV/88888888/224/3221227039/10000100000000060000000000570897_0.smil
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
+辽宁卫视,http://61.156.228.12:8154/tsfile/live/0121_1.m3u8
+辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
+辽宁卫视,http://60.16.0.216:5757/hls/32/index.m3u8
+辽宁卫视,http://123.130.84.106:8154/tsfile/live/0121_1.m3u8
+辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/29/live.m3u8
+辽宁卫视,http://183.11.239.36:808/hls/47/index.m3u8
+辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -36,9 +45,8 @@
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
-山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv
 山东教育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227291/10000100000000060000000001945822_0.smil
 山东教育,rtsp://115.153.245.70/PLTV/88888888/224/3221226980/85722602.smil
@@ -48,6 +56,7 @@
 山东教育,rtsp://115.153.247.80/PLTV/88888888/224/3221226980/85722602.smil
 山东教育,rtsp://115.153.230.145/PLTV/88888888/224/3221226980/85722602.smil
 山东教育,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226980/85722602.smil
+山东教育,rtsp://115.153.233.154/PLTV/88888888/224/3221226980/85722602.smil
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227300/10000100000000060000000001945824_0.smil
 三沙卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226984/85722645.smil
@@ -59,8 +68,8 @@
 三沙卫视,rtsp://115.153.230.145/PLTV/88888888/224/3221226984/85722645.smil
 三沙卫视,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226984/85722645.smil
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 风云足球,http://27.41.245.32:801/hls/906/index.m3u8
+风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8
 风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
 风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
@@ -72,8 +81,8 @@
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
@@ -96,6 +105,7 @@
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
+老故事,https://other.ottiptv.cc/cwjd.m3u8
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
@@ -157,8 +167,8 @@
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 CHC家庭影院,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b0f988110099cf6a8405d8aacc0ec1c4
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
