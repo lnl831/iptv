@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-07 06:29:04,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+2026-01-07 18:32:40,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 
 ,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
@@ -27,8 +27,8 @@
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
@@ -36,8 +36,8 @@
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
+卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv
 山东教育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227291/10000100000000060000000001945822_0.smil
@@ -72,8 +72,8 @@
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
@@ -139,7 +139,6 @@
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
-新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
