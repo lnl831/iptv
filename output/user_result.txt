@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-21 06:29:34,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+2026-01-22 06:31:15,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 
 ,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -8,11 +8,10 @@
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
-黑龙江卫视,http://123.129.70.178:9901/tsfile/live/0143_1.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
@@ -56,10 +55,10 @@
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
+兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv
@@ -74,40 +73,21 @@
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-第一剧场,http://43.251.226.89:8080/play/1155.m3u8
-第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
-第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-怀旧剧场,http://43.251.226.89:8080/play/1156.m3u8
-风云剧场,http://43.251.226.89:8080/play/1157.m3u8
-风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
-风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
-风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
-风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 老故事,https://other.ottiptv.cc/cwjd.m3u8
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
@@ -149,7 +129,6 @@
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
-车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
@@ -157,7 +136,6 @@
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
