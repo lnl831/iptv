@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-05 06:35:54,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+2026-02-05 18:46:40,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 ,#genre#
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+老故事,https://other.ottiptv.cc/cwjd.m3u8
 CHC家庭影院,http://eastscreen.tv/ooooo.php
