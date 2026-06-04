@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-04 20:48:39,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-06-05 07:16:41,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 ,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -20,6 +20,15 @@
 金鹰纪实,http://58.57.40.22:9901/tsfile/live/1070_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
+辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/29/live.m3u8
+辽宁卫视,http://101.66.198.62:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
+辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/40/live.m3u8
+辽宁卫视,http://101.66.199.12:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://59.39.89.130:60901/tsfile/live/0125_13.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://123.129.70.178:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -29,12 +38,11 @@
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
@@ -61,8 +69,8 @@
 第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
@@ -103,8 +111,8 @@
 欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
 CHC家庭影院,rtsp://115.153.212.72/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226959/86128800.smil
